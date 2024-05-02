@@ -54,7 +54,7 @@ understanding how people will interact with increasingly automated vehicles, soc
 
 
 ## Datasets
-1. [Udacity](https://github.com/udacity/self-driving-car/tree/master/datasets) - Udacity driving datasets released for [Udacity Challenges](https://www.udacity.com/self-driving-car). Contains ROSBAG training data. (~80 GB).
+* [Udacity](https://github.com/udacity/self-driving-car/tree/master/datasets) - Udacity driving datasets released for [Udacity Challenges](https://www.udacity.com/self-driving-car). Contains ROSBAG training data. (~80 GB).
 * [Comma.ai](https://archive.org/details/comma-dataset) - 7 and a quarter hours of largely highway driving. Consists of 10 videos clips of variable size recorded at 20 Hz with a camera mounted on the windshield of an Acura ILX 2016. In parallel to the videos, also recorded some measurements such as car's speed, acceleration, steering angle, GPS coordinates, gyroscope angles. These measurements are transformed into a uniform 100 Hz time base.
 * [Oxford RobotCar](http://robotcar-dataset.robots.ox.ac.uk/) - over 100 repetitions of a consistent route through Oxford, UK, captured over a period of over a year. The dataset captures many different combinations of weather, traffic and pedestrians, along with longer term changes such as construction and roadworks.
 * [Oxford Radar RobotCar](https://oxford-robotics-institute.github.io/radar-robotcar-dataset/) - radar extension to The Oxford RobotCar Dataset providing data from a Navtech CTS350-X Millimetre-Wave FMCW radar and Dual Velodyne HDL-32E LIDARs with optimised ground truth radar odometry for 280 km of driving.
