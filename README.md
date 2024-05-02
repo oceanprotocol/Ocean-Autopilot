@@ -34,7 +34,7 @@ Ocean Protocol coming next!
 
 
 ## Research Labs
-1. 	[Center for Automotive Research at Stanford](https://cars.stanford.edu/) - Current areas of research focuses on human-centered mobility themes like
+* [Center for Automotive Research at Stanford](https://cars.stanford.edu/) - Current areas of research focuses on human-centered mobility themes like
 understanding how people will interact with increasingly automated vehicles, societal impacts of vehicle automation from policy to ethics to law, technology advances in sensing, decision-making and control.
 * [SAIL-TOYOTA Center for AI Research at Stanford](http://aicenter.stanford.edu/research/) - The theme of the center is **Human-Centered Artificial Intelligence for Future Intelligent Vehicles and Beyond.**
 * [Berkeley DeepDrive](http://bdd.berkeley.edu/) - Investigates state-of-the-art technologies in computer vision and machine learning for automotive application.
