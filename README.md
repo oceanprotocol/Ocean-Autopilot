@@ -89,7 +89,7 @@ sensors for odometry collected using a Segway robot.
 
 
 ## Open Source Software
-1. [Autoware](https://github.com/CPFL/Autoware) - Integrated open-source software for urban autonomous driving.
+* [Autoware](https://github.com/CPFL/Autoware) - Integrated open-source software for urban autonomous driving.
 * [Comma.ai Openpilot](https://github.com/commaai/openpilot) - an open source driving agent.
 * [Stanford Driving Software](https://sourceforge.net/projects/stanforddriving/) - Software Infrastructure for Stanford's Autonomous Vehicles.
 * [GTA Robotics SDC Environment](https://github.com/OSSDC/self-driving-car-1) - development environment ready for Udacity Self Driving Car (SDC) Challenges.
