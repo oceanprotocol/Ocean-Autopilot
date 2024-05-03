@@ -17,7 +17,7 @@ These combustion engine supercars use a [Dallara](https://www.dallara.it/en) cha
 [Humbda Lab](https://humda.hu/en/organization) [Hungary]\
 [Kinetiz](https://kinetiz.ai/) [UAE & Singapore]\
 [Code19](https://www.code19.ai/) [USA]\
-[Khalifa University](https://www.ku.ac.ae/) [UAE & China]
+[Khalifa University](https://www.ku.ac.ae/) [UAE & China]\
 Ocean Protocol coming next!
 
 ## Execution Plan
