@@ -32,6 +32,15 @@ Ocean Protocol coming next!
 
 - OPF to eventually establish a RacingDAO with the goal to democratize access to racing sports and allow more AI talents to join the program, contribute to research and possibly govern the model.
 
+### Sprints
+
+* Sprint 1: Planning Phase
+* Sprint 2: Static & Dynamic Object Detection
+* Sprint 3: Localization & Mapping
+* Sprint 4: Trajectory Planning
+* Sprint 5: Vehicle Control System
+* Sprint 6: Race Regulation Planning
+* Sprint 7: Simulations & Testing
 
 ## Research Labs
 * [Center for Automotive Research at Stanford](https://cars.stanford.edu/) - Current areas of research focuses on human-centered mobility themes like
