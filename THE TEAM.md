@@ -1,3 +1,7 @@
+# Ocean Autopilot Team
+Our objective is to form the top technical team by leveraging the talents available within our community. The team is currently in the development phase and will comprise the following members:
+
+
 ## ✅1x Project Manager
 
 #### Expertise:
