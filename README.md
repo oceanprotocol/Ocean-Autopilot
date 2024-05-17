@@ -1,7 +1,7 @@
 
 <img width="1190" alt="Screenshot 2024-05-02 at 16 31 18" src="https://github.com/oceanprotocol/Ocean-Racing-Team/assets/35074712/12e99d2a-70a6-4253-a381-3e47dbfcfae7">
 
-# Ocean Racing Team 🤖
+# Ocean Autopilot Initiative 🤖
 [A2RL](https://a2rl.io/) is the first autonomous racing league that brings technology and speed in a competition where 8 different AI-powered vehicles compete against each others. 
 
 Ocean Protocol Foundation sees an opportunity to leverage its existing Data Challenges program to build a crowd-sourced metamodel for autonomous racing sports. The driver behind this initiaitve is to utilize & promote the use of our technology within the automotive industry, but also to collect & make valuable datapoints available for research purposes whilst strenghening the ties with our partner Mercedes-Benz
