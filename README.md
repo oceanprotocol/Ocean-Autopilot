@@ -7,7 +7,7 @@
 Ocean Protocol Foundation sees an opportunity to leverage its existing Data Challenges program to build a crowd-sourced metamodel for autonomous racing sports. The driver behind this initiaitve is to utilize & promote the use of our technology within the automotive industry, but also to collect & make valuable datapoints available for research purposes whilst strenghening the ties with our partner Mercedes-Benz
 
 #### THE TEAM 
-More information about Team members & resources allocated available [here](https://docs.google.com/forms/d/e/1FAIpQLSdaDSNs1h-78fI6MgOyRC7GgPJgvKfG3XsZGawepXuW2HxO5A/viewform?usp=sharing)
+More information about Team members & resources allocated available [here](https://github.com/oceanprotocol/Ocean-Autopilot/blob/main/THE%20TEAM.md#1x-project-manager)
 
 #### VEHICLE INFORMATION
 These combustion engine supercars use a [Dallara](https://www.dallara.it/en) chasis and are equipped with 7x Sony IMX728 360°coverage cameras, 4x ZF ProWave Radars, 3x Seyond Falcon Kinetic FK1 Lidars, 1x Neousys RGS-8805GC Computer - collecting approximately 5 GB of data per second.
