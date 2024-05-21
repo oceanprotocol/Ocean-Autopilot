@@ -12,16 +12,35 @@ More information about Team members & resources allocated available [here](https
 #### VEHICLE INFORMATION
 These combustion engine supercars use a [Dallara](https://www.dallara.it/en) chasis and are equipped with 7x Sony IMX728 360°coverage cameras, 4x ZF ProWave Radars, 3x Seyond Falcon Kinetic FK1 Lidars, 1x Neousys RGS-8805GC Computer - collecting approximately 5 GB of data per second.
 
-#### TEAMS INFORMATION
-[Technical University of Munich](https://www.tum.de/en/) [Germany]\
-[Constructor University](https://constructor.university/) [Germany]\
-[Università di Modena Unimore](http://www.unimore.it/it) [Italy]\
-[Politecnico di Milano Polimove](https://www.indyautonomouschallenge.com/politecnico-di-milano) [Italy]\
-[Humbda Lab](https://humda.hu/en/organization) [Hungary]\
-[Kinetiz](https://kinetiz.ai/) [UAE & Singapore]\
-[Code19](https://www.code19.ai/) [USA]\
-[Khalifa University](https://www.ku.ac.ae/) [UAE & China]\
+#### RACING TEAMS
+
+##### ACTIVE TEAMS
+[Technical University of Munich](https://www.tum.de/en/) | [Email]()\
+[Constructor University](https://constructor.university/) | [Email]()\
+[Università di Modena Unimore](http://www.unimore.it/it) | [Email]()\
+[Politecnico di Milano Polimove](https://www.indyautonomouschallenge.com/politecnico-di-milano) | [Email]()\
+[Humbda Lab](https://humda.hu/en/organization) | [Email]()\
+[Kinetiz](https://kinetiz.ai/) | [Email]()\
+[Code19](https://www.code19.ai/) | [Email]()\
+[Khalifa University](https://www.ku.ac.ae/) | [Email]()\
 Ocean Protocol coming next!
+
+##### INACTIVE TEAMS
+[Indian Institute of Technology Madras](https://www.teamabhiyaan.com/) | [Email](abhiyaan@smail.iitm.ac.in)\
+[Ariel UNIVERSITY](https://www.ariel.ac.il/wp/indychallenge/) | [Email](shiller@ariel.ac.il)\
+[Graz University of Technology](https://autonomousracing.ai) | [Email](daniel.watzenig@tugraz.at)\
+[University of Berkley](http://www.mpc.berkeley.edu/) | [Email](race.mpc@gmail.com)\
+[Embry-Riddle Aeronautical University](https://daytonabeach.erau.edu/about/labs/high-performance-vehicle-lab) | [Email](comperem@erau.edu)\
+[University of Florida](https://gator-av-racing.org/) | [Email](info@gator-av-racing.org)\
+[University of North Carolina at Chapel Hill](https://cs.unc.edu/) | [Email](psd@cs.unc.edu)\
+[California Polytechnic State University](https://www.calpoly.edu/college-of-engineering) | [Email](cbirdson@calpoly.edu)\
+[Kennesaw State University](https://engineering.kennesaw.edu/mechatronics/) | [Email](kmcfall@kennesaw.edu)\
+[University of Michigan-Dearborn](http://mauto.jrkwon.com) | [Email](jrkwon@umich.edu)\
+[Amrita Vishwa Vidyapeetham](https://www.amrita.edu/center/hut-labs/na-sarathy) | [Email](rajeshm@am.amrita.edu)\
+[Colorado State University](https://www.engr.colostate.edu/se/) | [Email](anavarrotech@gmail.com)\
+[Texas A&M University](https://ceprofs.civil.tamu.edu/idamnjanovic/) | [Email](idamnjanovic@civil.tamu.edu)\
+[University of Wisconsin-Madison](https://www.wisconsinautonomous.org) | [Email](apletta@wisc.edu)\
+[Warsaw University of Technology](http://knr.meil.pw.edu.pl/) | [Email](adam.gotlib.stud@pw.edu.pl)\
 
 ## Execution Plan
 
