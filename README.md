@@ -28,6 +28,8 @@ Source: https://www.indyautonomouschallenge.com/teams
 [University of California & Berkley](www.AIRacingTech.com) | [Email](allenyang@berkeley.edu)\
 [Auburn University](http://gavlab.auburn.edu/) | [Email](dmbevly@eng.auburn.edu)\
 [Purdue University](https://www.stormkingconsulting.com/skg-community-outreach) | [Email](michael.saxon@stormkingconsulting.com)\
+[University of Virginia](https://autonomousracing.dev/) | [Email](mb2kg@virginia.edu)\
+[Korea Advanced Institute of Science and Technology](http://unmanned.kaist.ac.kr/) | [Email](dhcshim@gmail.com)\
 Ocean Protocol coming next!
 
 ##### INACTIVE TEAMS
