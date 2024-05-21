@@ -13,16 +13,21 @@ More information about Team members & resources allocated available [here](https
 These combustion engine supercars use a [Dallara](https://www.dallara.it/en) chasis and are equipped with 7x Sony IMX728 360°coverage cameras, 4x ZF ProWave Radars, 3x Seyond Falcon Kinetic FK1 Lidars, 1x Neousys RGS-8805GC Computer - collecting approximately 5 GB of data per second.
 
 #### RACING TEAMS
+Source: https://www.indyautonomouschallenge.com/teams
 
 ##### ACTIVE TEAMS
-[Technical University of Munich](https://www.tum.de/en/) | [Email]()\
-[Constructor University](https://constructor.university/) | [Email]()\
-[Università di Modena Unimore](http://www.unimore.it/it) | [Email]()\
-[Politecnico di Milano Polimove](https://www.indyautonomouschallenge.com/politecnico-di-milano) | [Email]()\
+[Technical University of Munich](https://www.tum.de/en/) | [Email](alexander.wischnewski@tum.de)\
+[Constructor University](https://constructor.university/) | Email\
+[Università di Modena Unimore](http://www.unimore.it/it) | [Email](marko.bertogna@unimore.it)\
+[Politecnico di Milano Polimove](https://www.indyautonomouschallenge.com/politecnico-di-milano) | [Email](sergio.savaresi@polimi.it)\
 [Humbda Lab](https://humda.hu/en/organization) | [Email]()\
 [Kinetiz](https://kinetiz.ai/) | [Email]()\
 [Code19](https://www.code19.ai/) | [Email]()\
 [Khalifa University](https://www.ku.ac.ae/) | [Email]()\
+[Massachusetts Institute of Technology](http://driverless.mit.edu/mitpittrw) | [Email](driverless-business@mit.edu)\
+[University of California & Berkley](www.AIRacingTech.com) | [Email](allenyang@berkeley.edu)\
+[Auburn University](http://gavlab.auburn.edu/) | [Email](dmbevly@eng.auburn.edu)\
+[Purdue University](https://www.stormkingconsulting.com/skg-community-outreach) | [Email](michael.saxon@stormkingconsulting.com)\
 Ocean Protocol coming next!
 
 ##### INACTIVE TEAMS
