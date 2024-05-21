@@ -20,10 +20,10 @@ Source: https://www.indyautonomouschallenge.com/teams
 [Constructor University](https://constructor.university/) | Email\
 [Università di Modena Unimore](http://www.unimore.it/it) | [Email](marko.bertogna@unimore.it)\
 [Politecnico di Milano Polimove](https://www.indyautonomouschallenge.com/politecnico-di-milano) | [Email](sergio.savaresi@polimi.it)\
-[Humbda Lab](https://humda.hu/en/organization) | [Email]()\
-[Kinetiz](https://kinetiz.ai/) | [Email]()\
-[Code19](https://www.code19.ai/) | [Email]()\
-[Khalifa University](https://www.ku.ac.ae/) | [Email]()\
+[Humbda Lab](https://humda.hu/en/organization) | Email\
+[Kinetiz](https://kinetiz.ai/) | Email\
+[Code19](https://www.code19.ai/) | Email\
+[Khalifa University](https://www.ku.ac.ae/) |Email\
 [Massachusetts Institute of Technology](http://driverless.mit.edu/mitpittrw) | [Email](driverless-business@mit.edu)\
 [University of California & Berkley](www.AIRacingTech.com) | [Email](allenyang@berkeley.edu)\
 [Auburn University](http://gavlab.auburn.edu/) | [Email](dmbevly@eng.auburn.edu)\
