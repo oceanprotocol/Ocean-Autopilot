@@ -47,7 +47,7 @@ Ocean Protocol coming next!
 [Colorado State University](https://www.engr.colostate.edu/se/) | [Email](anavarrotech@gmail.com)\
 [Texas A&M University](https://ceprofs.civil.tamu.edu/idamnjanovic/) | [Email](idamnjanovic@civil.tamu.edu)\
 [University of Wisconsin-Madison](https://www.wisconsinautonomous.org) | [Email](apletta@wisc.edu)\
-[Warsaw University of Technology](http://knr.meil.pw.edu.pl/) | [Email](adam.gotlib.stud@pw.edu.pl)\
+[Warsaw University of Technology](http://knr.meil.pw.edu.pl/) | [Email](adam.gotlib.stud@pw.edu.pl)
 
 ## Execution Plan
 
