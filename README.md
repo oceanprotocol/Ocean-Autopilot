@@ -33,21 +33,21 @@ Source: https://www.indyautonomouschallenge.com/teams
 Ocean Protocol coming next!
 
 ##### INACTIVE TEAMS
-[Indian Institute of Technology Madras](https://www.teamabhiyaan.com/) | [Email](abhiyaan@smail.iitm.ac.in)\
-[Ariel UNIVERSITY](https://www.ariel.ac.il/wp/indychallenge/) | [Email](shiller@ariel.ac.il)\
-[Graz University of Technology](https://autonomousracing.ai) | [Email](daniel.watzenig@tugraz.at)\
-[University of Berkley](http://www.mpc.berkeley.edu/) | [Email](race.mpc@gmail.com)\
-[Embry-Riddle Aeronautical University](https://daytonabeach.erau.edu/about/labs/high-performance-vehicle-lab) | [Email](comperem@erau.edu)\
-[University of Florida](https://gator-av-racing.org/) | [Email](info@gator-av-racing.org)\
-[University of North Carolina at Chapel Hill](https://cs.unc.edu/) | [Email](psd@cs.unc.edu)\
-[California Polytechnic State University](https://www.calpoly.edu/college-of-engineering) | [Email](cbirdson@calpoly.edu)\
-[Kennesaw State University](https://engineering.kennesaw.edu/mechatronics/) | [Email](kmcfall@kennesaw.edu)\
-[University of Michigan-Dearborn](http://mauto.jrkwon.com) | [Email](jrkwon@umich.edu)\
-[Amrita Vishwa Vidyapeetham](https://www.amrita.edu/center/hut-labs/na-sarathy) | [Email](rajeshm@am.amrita.edu)\
-[Colorado State University](https://www.engr.colostate.edu/se/) | [Email](anavarrotech@gmail.com)\
-[Texas A&M University](https://ceprofs.civil.tamu.edu/idamnjanovic/) | [Email](idamnjanovic@civil.tamu.edu)\
-[University of Wisconsin-Madison](https://www.wisconsinautonomous.org) | [Email](apletta@wisc.edu)\
-[Warsaw University of Technology](http://knr.meil.pw.edu.pl/) | [Email](adam.gotlib.stud@pw.edu.pl)
+[Indian Institute of Technology Madras](https://www.teamabhiyaan.com/) | [Email](mailto:abhiyaan@smail.iitm.ac.in)\
+[Ariel UNIVERSITY](https://www.ariel.ac.il/wp/indychallenge/) | [Email](mailto:shiller@ariel.ac.il)\
+[Graz University of Technology](https://autonomousracing.ai) | [Email](mailto:daniel.watzenig@tugraz.at)\
+[University of Berkley](http://www.mpc.berkeley.edu/) | [Email](mailto:race.mpc@gmail.com)\
+[Embry-Riddle Aeronautical University](https://daytonabeach.erau.edu/about/labs/high-performance-vehicle-lab) | [Email](mailto:comperem@erau.edu)\
+[University of Florida](https://gator-av-racing.org/)\
+[University of North Carolina at Chapel Hill](https://cs.unc.edu/) | [Email](mailto:psd@cs.unc.edu)\
+[California Polytechnic State University](https://www.calpoly.edu/college-of-engineering) | [Email](mailto:cbirdson@calpoly.edu)\
+[Kennesaw State University](https://engineering.kennesaw.edu/mechatronics/)\
+[University of Michigan-Dearborn](http://mauto.jrkwon.com) | [Email](mailto:jrkwon@umich.edu)\
+[Amrita Vishwa Vidyapeetham](https://www.amrita.edu/center/hut-labs/na-sarathy) | [Email](mailto:rajeshm@am.amrita.edu)\
+[Colorado State University](https://www.engr.colostate.edu/se/) | [Email](mailto:anavarrotech@gmail.com)\
+[Texas A&M University](https://ceprofs.civil.tamu.edu/idamnjanovic/) | [Email](mailto:idamnjanovic@civil.tamu.edu)\
+[University of Wisconsin-Madison](https://www.wisconsinautonomous.org) | [Email](mailto:apletta@wisc.edu)\
+[Warsaw University of Technology](http://knr.meil.pw.edu.pl/) | [Email](mailto:adam.gotlib.stud@pw.edu.pl)
 
 ## Execution Plan
 
