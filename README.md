@@ -16,20 +16,20 @@ These combustion engine supercars use a [Dallara](https://www.dallara.it/en) cha
 Source: https://www.indyautonomouschallenge.com/teams
 
 ##### ACTIVE TEAMS
-[Technical University of Munich](https://www.tum.de/en/) | [Email](alexander.wischnewski@tum.de)\
+[Technical University of Munich](https://www.tum.de/en/) | [Email](mailto:alexander.wischnewski@tum.de)\
 [Constructor University](https://constructor.university/) | Email\
-[Università di Modena Unimore](http://www.unimore.it/it) | [Email](marko.bertogna@unimore.it)\
-[Politecnico di Milano Polimove](https://www.indyautonomouschallenge.com/politecnico-di-milano) | [Email](sergio.savaresi@polimi.it)\
+[Università di Modena Unimore](http://www.unimore.it/it) | [Email](mailto:marko.bertogna@unimore.it)\
+[Politecnico di Milano Polimove](https://www.indyautonomouschallenge.com/politecnico-di-milano) | [Email](mailto:sergio.savaresi@polimi.it)\
 [Humbda Lab](https://humda.hu/en/organization) | Email\
 [Kinetiz](https://kinetiz.ai/) | Email\
 [Code19](https://www.code19.ai/) | Email\
 [Khalifa University](https://www.ku.ac.ae/) |Email\
-[Massachusetts Institute of Technology](http://driverless.mit.edu/mitpittrw) | [Email](driverless-business@mit.edu)\
-[University of California & Berkley](www.AIRacingTech.com) | [Email](allenyang@berkeley.edu)\
-[Auburn University](http://gavlab.auburn.edu/) | [Email](dmbevly@eng.auburn.edu)\
-[Purdue University](https://www.stormkingconsulting.com/skg-community-outreach) | [Email](michael.saxon@stormkingconsulting.com)\
-[University of Virginia](https://autonomousracing.dev/) | [Email](mb2kg@virginia.edu)\
-[Korea Advanced Institute of Science and Technology](http://unmanned.kaist.ac.kr/) | [Email](dhcshim@gmail.com)\
+[Massachusetts Institute of Technology](http://driverless.mit.edu/mitpittrw) | [Email](mailto:driverless-business@mit.edu)\
+[University of California & Berkley](www.AIRacingTech.com) | [Email](mailto:allenyang@berkeley.edu)\
+[Auburn University](http://gavlab.auburn.edu/) | [Email](mailto:dmbevly@eng.auburn.edu)\
+[Purdue University](https://www.stormkingconsulting.com/skg-community-outreach) | [Email](mailto:michael.saxon@stormkingconsulting.com)\
+[University of Virginia](https://autonomousracing.dev/) | [Email](mailto:mb2kg@virginia.edu)\
+[Korea Advanced Institute of Science and Technology](http://unmanned.kaist.ac.kr/) | [Email](mailto:dhcshim@gmail.com)\
 Ocean Protocol coming next!
 
 ##### INACTIVE TEAMS
