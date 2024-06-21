@@ -12,7 +12,7 @@ More information about Team members & resources allocated available [here](https
 #### VEHICLE INFORMATION
 These combustion engine supercars use a [Dallara](https://www.dallara.it/en) chasis and are equipped with 7x Sony IMX728 360°coverage cameras, 4x ZF ProWave Radars, 3x Seyond Falcon Kinetic FK1 Lidars, 1x Neousys RGS-8805GC Computer - collecting approximately 5 GB of data per second.
 
-#### RACING TEAMS
+#### OTHER RACING LEAGUES/CHALLENGES
 Source: https://www.indyautonomouschallenge.com/teams
 
 ##### ACTIVE TEAMS
