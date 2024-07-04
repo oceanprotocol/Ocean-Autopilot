@@ -12,7 +12,7 @@ Understanding a team's progress relative to other teams can help answer question
 
 This is where accessing more analytics—particularly an anonymized, aggregated means of private data—becomes valuable. It allows each team to analyze and compare their own private datapoints with the average progress across all teams.
 
-![alt text](https://github.com/oceanprotocol/Ocean-Autopilot/blob/c35fef910c54ee831ba2e89a84e231ed37c64cfa/C2D%20PoC/Screenshot%202024-06-27%20at%2012.30.00.png)
+![alt text](https://github.com/oceanprotocol/Ocean-Autopilot/blob/3e17c53750ad828bb8e397a02728156b4230772f/C2D%20PoC/Distributed_Analytics.png)
 
 
 
