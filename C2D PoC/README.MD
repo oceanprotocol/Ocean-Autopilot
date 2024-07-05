@@ -12,17 +12,16 @@ During F1 race sessions, lap and sector times are usually the most used datapoin
 
 This is what a general dashboard looks like:
 
+![alt text](https://github.com/oceanprotocol/Ocean-Autopilot/blob/8d96fe28d3ce390cbdd1db73c0dc212f9498f9e0/C2D%20PoC/lap_times_aggregated_data_F1.png)
 
 
 ## Distributed Analytics in Racing
 
-Going beyond lap times data, and analyzing data coming from all the sensors installed on a vehicle (hundreds of sensors per car) is extremely important to understand the performance relative to certain areas.  
+Analyses go beyond lap times data. There are over 250+ sensors installed on a vehicle and 1TB of data collected per vehicle per weekend, all which is extremely important to understand the performance relative to certain components.
 
-And that's where understanding a team's progress relative to other teams can help answer questions like "Are we working on the right components?" or "Are we improving this metric enough to outperform the others?" 
+Most of the data collected is kept private for internal analyses - this data includes but is not limited to suspension level/ride-height, fuel level, engine coolant temperatures, turbo temperatures, battery-pack temperatures, brake discs temperatures, brake pads temperatures, exhaust gas pressure, tyres pressure, engine oil pressure, gearbox oil pressure and down-force. 
 
-Just as benchmarking is used for lap times, where the data is made publicly available, so can benchmarking be used for private data such as aerodynamics, downforce, GPU and more - with the exception that the data remains private and anonymous.
-
-This is where accessing more analytics —and particularly the aggregated means of all teams' private data— becomes valuable, and allows each team to analyze their performance relative to the average progress of the entire league.
+So, just as benchmarking is commonly used for lap times where data is publicly shared across teams, so can benchmarking be used for private data such as the ones mentioned above to allow each team to analyze the performance of their components relative to the average progress of the entire league and eventually augment decision making and spur further innovation - all whilst keeping the data private and anonymized. 
 
 This is what the architecture of distrubuted analytics look like using Ocean Nodes & Ocean's Compute-to-Data:
 
